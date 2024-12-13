@@ -1,4 +1,4 @@
-"student_ID","name","age","city","group","score","last_updated","preparation_course","sity_count","s"
+"student_id","name","age","city","group","score","last_updated","preparation_course","sity_count","s"
 1,"VICTORIA SAUNDERS DDS",30,"MARKLAND","A3",64,45418,TRUE,64,30
 2,"AARON GEORGE",33,"LAURACHESTER","E4",92,45304,FALSE,92,33
 4,"JENNIFER SCHWARTZ",21,"NORTH MICHAEL","C4",66,45303,TRUE,66,21
